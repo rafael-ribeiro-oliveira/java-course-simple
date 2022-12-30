@@ -6,7 +6,8 @@ public class ExerciseSix {
 
         float raio = sc.nextFloat();
 
-        System.out.printf("O círculo com %.2f de diametro, o raio será igual a %.2f centimetros", raio, raio / 2 );
+        System.out.printf("O círculo com %.2f de diametro, o raio será igual a %.2f centimetros",
+                raio, raio / 2 );
 
 
     }

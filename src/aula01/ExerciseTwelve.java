@@ -1,3 +1,5 @@
+package aula01;
+
 import java.util.Scanner;
 
 //    tendo como dados de entrada a altura e o sexo de uma pessoa,

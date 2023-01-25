@@ -1,3 +1,5 @@
+package aula01;
+
 import java.util.Scanner;
 
 //Faça um programa que peça 2 números inteiros e um numero real calcule e mostre:

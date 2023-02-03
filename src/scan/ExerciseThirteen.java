@@ -1,6 +1,5 @@
-package aula01;
+package scan;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class ExerciseThirteen {

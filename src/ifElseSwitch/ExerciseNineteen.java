@@ -1,4 +1,4 @@
-    package aula02;
+    package ifElseSwitch;
     import java.util.Scanner;
 
     public class ExerciseNineteen {

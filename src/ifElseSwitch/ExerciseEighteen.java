@@ -1,8 +1,6 @@
-package aula02;
+package ifElseSwitch;
 
 import java.util.Scanner;
-
-import static java.sql.DriverManager.println;
 //Faça um programa para a leitura de duas notas parciais de um aluno.
 // O programa deve calcular a média alcançada pelo aluno e apresentar:
 //1)A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;

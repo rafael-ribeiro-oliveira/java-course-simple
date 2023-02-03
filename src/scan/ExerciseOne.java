@@ -1,4 +1,4 @@
-package aula01;
+package scan;
 
 public class ExerciseOne {
     public static void main(String[] args) {

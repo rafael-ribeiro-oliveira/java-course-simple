@@ -78,5 +78,11 @@
                     System.out.println("Estado civil precisa ser 's', 'c', 'v' ou 'd'.");
                 }
             } while (!infoValida);
+
+            System.out.println("Nome: " + nome);
+            System.out.println("Idade: " + idade);
+            System.out.println("Salário: " + salario);
+            System.out.println("Sexo: " + sexo);
+            System.out.println("Estado civil: " + estadoCivil);
         }
     }

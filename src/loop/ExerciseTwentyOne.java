@@ -14,7 +14,7 @@ public class ExerciseTwentyOne {
 
             if (nota >= 0 && nota <= 10){
                 notaValida = true;
-                System.out.println("VocÊ digitou " + nota);
+                System.out.println("Você digitou " + nota);
             }else{
                 // notaInvalida = false;
                 System.out.println("Nota invalida digite novamente.");

@@ -3,6 +3,9 @@
     import java.util.Random;
     import java.util.Scanner;
 
+
+    //Gere e imprima uma matriz M 4x4 com valores aleatórios entre
+    //0-9. Após isso determine o maior número da matriz e a sua posição (linhas e coluna)
     public class ExerciseThirtyOne {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
